@@ -3,7 +3,10 @@
   background-color: darkblue;
   align-content: center;
   text-align: center;
+  background-image: url(champs.jpg);
+  background-size: cover;
+
 }
 body {
-  background-image: url(champs.jpg);
+  background-color: darkblue;
 }
